@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/DevPulse/",
+    "build": "vite build --base=/js_119_fedorivrv/",
     "preview": "vite preview"
   },
   "devDependencies": {
